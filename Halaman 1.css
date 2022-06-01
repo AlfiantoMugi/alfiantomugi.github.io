@@ -1,0 +1,21 @@
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 25%;
+    color:aliceblue;
+}
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color:white;
+    line-height: 0%;
+    background-color: yellow;
+}
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:yellow;
+    font-style: normal;
+    line-height: 0%;
+{
+    body {
+        background-color: black;
+    }
